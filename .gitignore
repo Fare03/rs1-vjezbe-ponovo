@@ -1,1 +1,21 @@
+# Visual Studio
 .vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# .NET build files
+**/bin/
+**/obj/
+
+# Visual Studio temporary files
+*.vsidx
+*.cache
+
+# NuGet
+*.nupkg
+*.snupkg
+
+# Logs
+*.log
